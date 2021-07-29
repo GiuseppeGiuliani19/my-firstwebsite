@@ -76,6 +76,7 @@ potessero collasare durante un eventuale cambio di dimensioni del dispositivo. *
   justify-content: center;
   padding-left: 20px;
   padding-right: 20px;
+  display: flex;
 }
 .btn-primary {
   display: inline-block;
