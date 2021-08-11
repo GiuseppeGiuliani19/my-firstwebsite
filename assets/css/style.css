@@ -177,6 +177,9 @@ rispetto alla fine della pagina --*/
 
 /* media query per mobile */
 @media (max-width: 767px){
+.banner_clearfix2{
+  padding-left: 20px;
+}
 .cards{
     max-width: 1200px;
     margin: 40px auto;
@@ -185,5 +188,8 @@ rispetto alla fine della pagina --*/
 .card {
     width: 100%;
     margin: 0;
+}
+#title{
+  text-align: center;
 }
 }
